@@ -16,9 +16,9 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #131316;
     background-size: cover;
-    background-position: center;
+    color: #43598e;
+    background-color: #000000
 }
 section {
     display: grid;
